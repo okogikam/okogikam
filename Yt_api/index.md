@@ -1,4 +1,4 @@
-[back](/index.md)
+[back](../index.md)
 
 # About
 Youtube Data API adalah API yotube yang bisa digunakan untuk mengambil data video dari website youtube. Fitur yang ada di API adalah:  
@@ -16,4 +16,6 @@ untuk memakai Youtube data API pertama-tama kalian harus punya akun [google Clou
 ![form api](./form%20api.png)
 1. setelah hasilnya keluar klik show code untuk menampilkan info yang lebih lengkap
 ![show code](./show_code.png)  
-pilih metode yang sesuai dengan aplikasi yang akan kalian buat lalu aplikasikan ke aplikasi anda. hasih yang di dapat adalah data JSON.
+pilih metode yang sesuai dengan aplikasi yang akan kalian buat lalu aplikasikan ke aplikasi anda. hasih yang di dapat adalah data JSON.  
+
+[back](../index.md)

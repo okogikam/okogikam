@@ -1,4 +1,4 @@
-[back](../index.md)
+[back](./index.md)
 
 # Pengertian HTML
 Elemen HTML ditentukan oleh tag awal, beberapa konten, dan tag akhir:
@@ -41,4 +41,4 @@ Dokumen HTML dimulai dengan tag `<html>` dan diakhiri dengan tag `</html>`. Doku
     tag yang menunjukkan bagian *badan* dari dokumen HTML. Bagian ini yang akan ditampilkan di broser. Dibagian ini kita menuliskan tag-tag html yang akan ditampilkan.  
     Di Body juga bisa di masukkan tag `<script>` untuk mendifinisikan link JS.
 
-[back](../index.md)
+[back](./index.md)
