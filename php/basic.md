@@ -82,15 +82,15 @@ PHP membagi operator dalam kelompok berikut:
 ![Assignment](./assigment_op.png)
 1. Comparison operators
 ![Comparison](./comparison_op.png)
-1. Increment/Decrement operators
+1. Increment/Decrement operators  
 ![Increment/Decrement](./incre_decre_op.png)
-1.  Logical operators
+1.  Logical operators  
 ![Logical](./logical_op.png)
-1.  String operators
+1.  String operators  
 ![String](./string_op.png)
 1.  Array operators
-![Array](./array_op.png)
-1.  Conditional assignment operators
+![Array](./array_op.png)  
+1.  Conditional assignment operators  
 ![Conditional](./conditional_op.png)
 
 ## Pengulangan
