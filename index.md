@@ -11,7 +11,7 @@ Halaman ini ditulis menggunakan ***Markdown*** untuk penyajian dan tampilannya.
 1. [JS](#)
 1. [JS : Array](#)
 1. [JS : Object](#)
-1. [PHP : Basic](#)
+1. [PHP : Basic](/php/basic.md)
 1. [PHP : Array](#)
 1. [PHP : Object](#)
 6. [JS : AJAX](#)
