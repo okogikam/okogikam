@@ -6,6 +6,7 @@ Tujuan dari halaman ini ada untuk mempermudah mencari data projek dan untuk bisa
 Halaman ini ditulis menggunakan ***Markdown*** untuk penyajian dan tampilannya.
 
 ## Teknologi
+1. [setup](./setup/)
 1. [HTML](./html.md)
 1. [CSS](#)
 1. [JS](#)
