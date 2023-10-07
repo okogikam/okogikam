@@ -1,9 +1,13 @@
 <style>
-    *{
-        background-color: #303030;
-        color: #f8f8f8;
+    html{
+        background-color: #303030;        
     }
+   *{
+      color: #f8f8f8;
+   }
 </style>
+
+
 [back](./index.md)
 
 # Pengertian HTML
