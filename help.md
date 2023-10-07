@@ -1,3 +1,13 @@
+<style> 
+    .markdown-body{ 
+        background-color: #303030; 
+    } 
+    h1,h2,h3,h4,h5,h6,p{ 
+        color: #f8f8f8; 
+    } 
+</style> 
+
+
 [back](./index.md)
 
 # Paragraf
