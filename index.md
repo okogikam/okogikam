@@ -1,3 +1,5 @@
+<style> html{ background-color: #303030; } *{ color: #f8f8f8; } </style> 
+
 [help](./help.md)
 
 # Tentang Halaman Ini
