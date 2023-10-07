@@ -1,5 +1,5 @@
 <style>
-    body{
+    *{
         background-color: #303030;
         color: #f8f8f8;
     }
