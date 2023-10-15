@@ -3,8 +3,8 @@ body{
     background-color: #24292e; 
     color: #fff;
 }
-pre{
-    background-color: #44494e; 
+span{
+    color: #44494e; 
 } 
 </style> 
 
