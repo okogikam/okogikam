@@ -22,6 +22,7 @@ Bagikan Aplikasi Anda
 Simpan dan bagikan proyek Anda di Google Drive atau publikasikan di Toko Web Chrome.
 
 [google Script Library](https://script.google.com/macros/library/d/1Twil1KGvSSW-G-e5U2RAncraU_p06JqRho5rmyOFN5GLBYhlf9gAuWEl/1)
+[google Script API](https://script.google.com/macros/s/AKfycbz0CmNuRC6o72TIJkdYYFgYcYUZxqUDpGBnWxjzLRwHXbJQxXxFgx7uLJkJpcVO3Bbt/exec)
 
 ## Fungsi Bawaan
 1. doGet()  
@@ -55,6 +56,18 @@ console.log(sheet);
     const value = sheet.getDataRange().getValues();
     ```
 1. menambah data
+
+    untuk menambah data pertama-tama kita harus tahu rang cell yang akan ditambahkan datamya, setelah itu kita bis menambah datanya dengan fungsi `setValue()`. contoh      
+    ```js
+    let count = 0;
+    let sh = conf.sheet;
+    let data = conf.data;
+    let row = sh.getDataRange().getValues();
+    for(let i = 0; i < data.length; i++){
+        sh.getRange(row.length+1,i+1).setValue(data[i]);
+        count += 1;
+    }
+    ```
 1. menghapus data
 1. mengaupdate data
 

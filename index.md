@@ -34,6 +34,7 @@ Halaman ini ditulis menggunakan ***Markdown*** untuk penyajian dan tampilannya.
     2. [Youtube Iframe API](#)
     1. [Firebase API](#)
     3. [Yogioh API](#)
+    1. [Google Script](./gscript/)
 
 ## Projek
 1. ### Yt Search
