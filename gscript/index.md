@@ -22,6 +22,7 @@ Bagikan Aplikasi Anda
 Simpan dan bagikan proyek Anda di Google Drive atau publikasikan di Toko Web Chrome.
 
 [google Script Library](https://script.google.com/macros/library/d/1Twil1KGvSSW-G-e5U2RAncraU_p06JqRho5rmyOFN5GLBYhlf9gAuWEl/1)
+
 [google Script API](https://script.google.com/macros/s/AKfycbz0CmNuRC6o72TIJkdYYFgYcYUZxqUDpGBnWxjzLRwHXbJQxXxFgx7uLJkJpcVO3Bbt/exec)
 
 ## Fungsi Bawaan
@@ -59,7 +60,6 @@ console.log(sheet);
 
     untuk menambah data pertama-tama kita harus tahu rang cell yang akan ditambahkan datamya, setelah itu kita bis menambah datanya dengan fungsi `setValue()`. contoh      
     ```js
-    let count = 0;
     let sh = conf.sheet;
     let data = conf.data;
     let row = sh.getDataRange().getValues();
@@ -69,6 +69,13 @@ console.log(sheet);
     }
     ```
 1. menghapus data
+
+    untuk menghapus data pertama-tama kita harus memilih range yang akan dihapus, kemudian hapus dengan fungsi `.deleteCells(SpreadsheetApp.Dimension.ROWS);` atau `deleteCells(SpreadsheetApp.Dimension.COLUMNS);`  
+
+    ```js
+    let data = sh.getRange(1, 1, 1, 3)  // A1:C1
+    data.deleteCells(SpreadsheetApp.Dimension.ROWS);
+    ```
 1. mengaupdate data
 
 [back](./index.md)
