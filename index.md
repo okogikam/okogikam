@@ -17,33 +17,24 @@ Halaman ini ditulis menggunakan ***Markdown*** untuk penyajian dan tampilannya.
 
 ## Teknologi
 1. [setup](./setup/)
-1. [HTML](./html.md)
-1. [CSS](#)
-1. [JS](#)
-1. [JS : Array](#)
-1. [JS : Object](#)
-1. [PHP : Basic](/php/basic.md)
-1. [PHP : Array](#)
-1. [PHP : Object](#)
-6. [JS : AJAX](#)
-7. [JS : HTTP Request](#)
-4. [PHP : file_get_content](#)
-5. [PHP : Session](#)
+1. [HTML](https://www.w3schools.com/html/default.asp)
+1. [CSS](https://www.w3schools.com/css/default.asp)
+1. [JS](https://www.w3schools.com/js/default.asp)
+1. [PHP](https://www.w3schools.com/php/default.asp)
 1. API :
     1. [Youtube data API](./Yt_api/)
     2. [Youtube Iframe API](#)
     1. [Firebase API](#)
-    3. [Yogioh API](#)
+    3. [Yogioh API](https://ygoprodeck.com/api-guide/)
     1. [Google Script](./gscript/)
 
 ## Projek
 1. ### Yt Search
-    Aplikasi untuk pencarian video youtube menggunakan  youtube API dan youtube iframe API. [Page](#) \| [Doc](#)
-
+    Aplikasi untuk pencarian video youtube menggunakan  youtube API dan youtube iframe API. [Page](https://okogikam.github.io/yt_player2/) \| [Doc](https://github.com/okogikam/yt_player2)
 2. ### Card CSS
-    Library CSS untuk kartu/ card di dalam website. [link](#) \| [Doc](#)
+    Library CSS untuk kartu/ card di dalam website. [link](https://okogikam.github.io/card/) \| [Doc](https://github.com/okogikam/card)
 1. ### Yogioh Database
-    Aplikasi database untuk data kartu, arcktype, dan harga kartu Yogioh. [Page](#) \| [Doc](#)
+    Aplikasi database untuk data kartu, arcktype, dan harga kartu Yogioh. [Page](https://okogikam.github.io/yugi_db/) \| [Doc](https://github.com/okogikam/yugi_db)
 
 ## Contact
 * Name    : Okogikam
