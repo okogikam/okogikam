@@ -8,7 +8,7 @@ span{
 } 
 </style> 
 
-[back](./index.md)
+[back](../../../index.md)
 # Google Apps Script
 Apps Script adalah platform pengembangan aplikasi cepat yang mempercepat dan memudahkan pembuatan aplikasi bisnis yang terintegrasi dengan Google Workspace. [Documentasion](https://developers.google.com/apps-script/samples)
 

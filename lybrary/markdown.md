@@ -9,7 +9,7 @@ pre{
 </style> 
 
 
-[back](./index.md)
+[back](../index.md)
 
 # Paragraf
 

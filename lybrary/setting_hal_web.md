@@ -8,7 +8,7 @@ pre{
 } 
 </style> 
 
-[back](../index.md)
+[back](../../index.md)
 
 # setup project
 library yang biasa dipakai untuk halam website
