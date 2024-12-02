@@ -12,7 +12,7 @@ pre{
 
 # Daftar Isi
 * [Draft Project](./draft/index.md)
-* [Progres](./progres/index.md)
+* [Progres](./proses/index.md)
 * [Selesai](./selesai/index.md)
 * [Gagal](./gagal/index.md)
 
