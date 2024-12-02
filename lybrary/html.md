@@ -9,7 +9,7 @@ pre{
 </style> 
 
 
-[back](../index.md)
+[back](./index.md)
 
 # Pengertian HTML
 Elemen HTML ditentukan oleh tag awal, beberapa konten, dan tag akhir:

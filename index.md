@@ -8,7 +8,7 @@ pre{
 } 
 </style> 
 
-[help](./lybrary/help.md)
+[help](./lybrary/markdown.md)
 
 # Tentang Halaman Ini
 Halaman ini digunakan untuk mendokumentasikan projek-projek yang telah dan sedang dikerjakan.  

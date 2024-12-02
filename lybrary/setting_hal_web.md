@@ -8,7 +8,7 @@ pre{
 } 
 </style> 
 
-[back](../../index.md)
+[back](./index.md)
 
 # setup project
 library yang biasa dipakai untuk halam website
@@ -61,4 +61,4 @@ library untuk grafik.
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 ```
 
-[back](../index.md)
+[back](./index.md)
