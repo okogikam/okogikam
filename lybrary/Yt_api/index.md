@@ -8,7 +8,7 @@ pre{
 } 
 </style> 
 
-[back](../../../index.md)
+[back](../index.md)
 
 # About
 Youtube Data API adalah API yotube yang bisa digunakan untuk mengambil data video dari website youtube. Fitur yang ada di API adalah:  

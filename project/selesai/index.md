@@ -11,6 +11,6 @@ pre{
 [back](../index.md)
 
 # Daftar Isi
-* [YT API](./Yt_api/index.md)
+* [YT Search](./yt_search.md)
 
 [back](../index.md)
