@@ -11,6 +11,6 @@ pre{
 [back](../index.md)
 
 # Daftar Isi
-
+* [habaranime v2](./habaranime_v2.md)
 
 [back](../index.md)
