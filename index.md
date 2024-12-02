@@ -16,10 +16,10 @@ Tujuan dari halaman ini ada untuk mempermudah mencari data projek dan untuk bisa
 Halaman ini ditulis menggunakan ***Markdown*** untuk penyajian dan tampilannya.
 
 # Daftar Isi
-- ### [Lybrary / Catatan](./lybrary/)
+- ### [Lybrary / Catatan](./lybrary/index.md)
     > catatan penting tentang project yang akan, sedang,selesai atau gagal dibuat
 
-- ### [Project](./project/)
+- ### [Project](./project/index.md)
     > project yang akan, sedang,selesai atau gagal dibuat.
 
 ## Contact

@@ -11,10 +11,10 @@ pre{
 [back](../index.md)
 
 # Daftar Isi
-* [seting halaman web](./setting_hal_web.md)
-* [html](./html.md)
-* [markdown](./markdown.md)
-* [php](./php/basic.md)
+* [Draft Project](./draft/index.md)
+* [Progres](./progres/index.md)
+* [Selesai](./selesai/index.md)
+* [Gagal](./gagal/index.md)
 
 
 [back](../index.md)
