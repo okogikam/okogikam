@@ -27,6 +27,8 @@ git config --global user.name "Your Name"
 ```
 sudo git clone <link> <folder>
 ```
-### git push
-
+### git commit
+```
+git commit -m "commit message"
+```
 [back](./index.md)
