@@ -27,5 +27,6 @@ git config --global user.name "Your Name"
 ```
 sudo git clone <link> <folder>
 ```
+### git push
 
 [back](./index.md)
