@@ -4,7 +4,7 @@ body{
     color: #fff;
 } 
 .highlight{
-    background-color: #44494e; 
+    background-color: #44494e !importan; 
 }
 </style> 
 
