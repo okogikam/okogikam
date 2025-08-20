@@ -17,6 +17,6 @@ pre{
 * [php](./php/basic.md)
 * [git](./git.md)
 * [Yt_API](./Yt_api/index.md)
-
+* [batocera](./batocera.md)
 
 [back](../index.md)
