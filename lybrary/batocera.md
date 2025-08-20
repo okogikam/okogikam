@@ -32,14 +32,16 @@ install switch emulator (v41+)
 ```
 # versi batocera 41+
 $ curl -L bit.ly/foclabroc-switchoff | bash
-
+```
+```
 # versi batocera 39 / 40
 $ curl -L bit.ly/fovlabroc-switchoff-40 | bash
 ```
 install wine tricks (dll file)
 ```
 $ batocera-wine windows trick [path/to/folder.wine] [tricks to install]
-
+```
+```
 # menampilkan daftar tricks
 $ batocera-wine tricks-list
 ``` 
