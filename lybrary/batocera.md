@@ -6,6 +6,9 @@ body{
 pre{
     background-color: #44494e; 
 }
+.highlight{
+    background-color: unset; 
+}
 </style> 
 
 
